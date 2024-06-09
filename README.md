@@ -1,2 +1,2 @@
 # PowerBi_dashboard_project
-This is a power bi end to end project
+Transforming data into interactive visualizations for actionable insights. Customized charts, real-time updates, and engaging features to drive informed decision-making.
